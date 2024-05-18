@@ -3,8 +3,8 @@ Welcome to the Chat App! This project is a real-time chat application built usin
 # Technology used
 ## MongoDB: Database for storing user data and chat messages
 
-Express.js: Backend framework for building the API
+## Express.js: Backend framework for building the API
 
-React: Frontend library for building the user interface
+## React: Frontend library for building the user interface
 
-Node.js: Runtime environment for executing JavaScript on the server
+## Node.js: Runtime environment for executing JavaScript on the server
