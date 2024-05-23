@@ -1,4 +1,4 @@
-# Chat-App web application
+# ConvoHub-Real Time Communication Platform
 Welcome to the Chat App! This project is a real-time chat application built using the MERN stack (MongoDB, Express.js, React, Node.js).
 # Technology used
  MongoDB: Database for storing user data and chat messages
